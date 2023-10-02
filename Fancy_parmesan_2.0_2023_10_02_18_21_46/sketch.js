@@ -40,8 +40,7 @@ function draw() {
   
 if (mouseIsPressed){
   cor = color(random(255), random(255), random(255), random(100));
-
-}
+  }
 
   
 }
